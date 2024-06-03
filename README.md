@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/geekcoderr](https://github.com/geekcoderr)
 
-- 💬 Ask me about **DevOps, Python(Flask), React, Angular, Linux.**
+- 💬 Ask me about **DevOps, Python(Django/Flask), Full Stack Web Development, React, Angular, Linux System Administration, CyberSecurity.**
 
 - 📫 How to reach me **mnishant222@gmail.com**
 
