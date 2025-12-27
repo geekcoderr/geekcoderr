@@ -3,11 +3,11 @@
 <h3 align="center">
 DevOps & Systems Engineer  
 <br/>
-Linux • Networking • Cloud • Kubernetes • Scalable Architecture
+Linux • Networking • Cloud • Kubernetes • Distributed & Scalable Architecture
 </h3>
 
 <p align="center">
-Designing, operating, and optimizing large-scale systems with an open-source mindset.
+Building, operating, and scaling cloud-native systems through open-source, automation, and deep system understanding.
 </p>
 
 <p align="center">
@@ -18,27 +18,27 @@ Designing, operating, and optimizing large-scale systems with an open-source min
 
 ## 🧑‍💻 About Me
 
-- DevOps & Infrastructure Engineer focused on **Linux, networking, and cloud-native systems**
-- Strong background in **Kubernetes, containers, CI/CD, and distributed architectures**
-- Passionate about **open-source tooling, system internals, and scalability**
-- Enjoy working close to the metal: **kernel, network stack, runtime, and infra layers**
-- Experience with **designing, running, and debugging production systems**
+- DevOps & Infrastructure Engineer working deeply with **Linux, networking, and cloud-native platforms**
+- Strong hands-on experience in **Kubernetes, containers, CI/CD pipelines, and distributed systems**
+- Passionate about **open-source ecosystems, system internals, and scalable architectures**
+- Comfortable operating close to the metal: **kernel behavior, network stack, runtimes, and infra layers**
+- Experienced in **designing, running, tuning, and debugging production-grade systems**
 
-📁 **Projects & OSS work** → https://github.com/geekcoderr  
+📁 **Projects & Open-Source Work** → https://github.com/geekcoderr  
 📫 **Contact** → mnishant222@gmail.com  
 
 ---
 
 ## 🧠 Areas of Expertise
 
-- Linux internals & system performance tuning  
-- Networking (TCP/IP, DNS, routing, NAT, firewalls, VPNs)  
-- Kubernetes & container orchestration  
-- Cloud platforms, IAM, and infra security  
-- CI/CD pipelines & automation  
-- Distributed system design & scalability  
-- Observability, logging, and monitoring  
-- Debugging production issues at scale  
+- Linux internals, performance tuning, and resource management  
+- Networking: TCP/IP, DNS, routing, NAT, firewalls, VPNs  
+- Kubernetes architecture & container orchestration  
+- Cloud platforms, IAM models, and infrastructure security  
+- CI/CD pipelines, GitOps, and automation workflows  
+- Distributed system design, fault tolerance, and scalability  
+- Observability: metrics, logs, tracing, and alerting  
+- Debugging complex production issues under real-world load  
 
 ---
 
@@ -83,12 +83,12 @@ Designing, operating, and optimizing large-scale systems with an open-source min
 
 ---
 
-## 🌐 Open-Source & Community
+## 🌍 Open-Source & Community
 
-- Active GitHub contributor & open-source explorer  
-- Interested in **DevOps, cloud-native, infra, and system-level OSS**
-- Regularly experiment with **new tools, RFCs, and architectures**
-- Believe in **learning by reading code, breaking systems, and fixing them**
+- Active GitHub contributor and open-source practitioner  
+- Strong interest in **DevOps, cloud-native, infrastructure, and system-level OSS**
+- Regularly explore **new tools, CNCF projects, RFCs, and architecture patterns**
+- Believe in learning through **reading source code, experimentation, failure, and iteration**
 
 ---
 
@@ -111,27 +111,6 @@ Designing, operating, and optimizing large-scale systems with an open-source min
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=geekcoderr&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=geekcoderr" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekcoderr&layout=compact" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=geekcoderr&theme=flat&margin-w=12&no-frame=true" />
-</p>
-
----
-
-<p align="center">
-  <i>Systems • Scale • Automation • Open Source</i>
+  <i>DevOps • Cloud • Kubernetes • Systems • Open Source</i>
 </p>
