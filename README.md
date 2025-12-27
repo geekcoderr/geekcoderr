@@ -1,39 +1,137 @@
-<h1 align="center">Hey there 👋, I'm Nishant Maheshwari</h1>
-<h3 align="center">An Enthusiast Full Stack Developer & a DevOps Piplined guy.</h3>
+<h1 align="center">👋 Hi, I'm Nishant Maheshwari</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geekcoderr&label=Profile%20views&color=0e75b6&style=flat" alt="geekcoderr" /> </p>
+<h3 align="center">
+DevOps & Systems Engineer  
+<br/>
+Linux • Networking • Cloud • Kubernetes • Scalable Architecture
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geekcoderr" alt="geekcoderr" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/NishantLuisefer" target="blank"><img src="https://img.shields.io/twitter/follow/NishantLuisefer?logo=twitter&style=for-the-badge" alt="NishantLuisefer" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/geekcoderr](https://github.com/geekcoderr)
-
-- 💬 Ask me about **DevOps, Python(Django/Flask), Full Stack Web Development, React, Angular, Linux System Administration, CyberSecurity.**
-
-- 📫 How to reach me **mnishant222@gmail.com**
-
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/geekcoderr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="geekcoderr" height="30" width="40" /></a>
-<a href="https://twitter.com/hackernishant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hackernishant" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nishant-maheshwari-geekcoderr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="httpsnishant-maheshwari-geekcoderr" height="30" width="40" /></a>
-<a href="https://medium.com/@mnishant222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mnishant222" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/hackernishant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hackernishant" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/geekcoderr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geekcoderr" height="30" width="40" /></a>
+<p align="center">
+Designing, operating, and optimizing large-scale systems with an open-source mindset.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=geekcoderr&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekcoderr&show_icons=true&locale=en&layout=compact" alt="geekcoderr" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geekcoderr&show_icons=true&locale=en" alt="geekcoderr" /></p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekcoderr&" alt="geekcoderr" /></p>
+- DevOps & Infrastructure Engineer focused on **Linux, networking, and cloud-native systems**
+- Strong background in **Kubernetes, containers, CI/CD, and distributed architectures**
+- Passionate about **open-source tooling, system internals, and scalability**
+- Enjoy working close to the metal: **kernel, network stack, runtime, and infra layers**
+- Experience with **designing, running, and debugging production systems**
 
+📁 **Projects & OSS work** → https://github.com/geekcoderr  
+📫 **Contact** → mnishant222@gmail.com  
+
+---
+
+## 🧠 Areas of Expertise
+
+- Linux internals & system performance tuning  
+- Networking (TCP/IP, DNS, routing, NAT, firewalls, VPNs)  
+- Kubernetes & container orchestration  
+- Cloud platforms, IAM, and infra security  
+- CI/CD pipelines & automation  
+- Distributed system design & scalability  
+- Observability, logging, and monitoring  
+- Debugging production issues at scale  
+
+---
+
+## 🛠️ DevOps, Cloud & Open-Source Tooling
+
+<p align="left">
+
+<!-- OS & Core -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="42"/>
+
+<!-- Containers & Orchestration -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="42"/>
+<img src="https://helm.sh/img/helm.svg" width="42"/>
+
+<!-- Cloud & Infra -->
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="42"/>
+
+<!-- CI/CD & Automation -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="42"/>
+<img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="42"/>
+
+<!-- IaC & Config -->
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="42"/>
+
+<!-- Observability -->
+<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="42"/>
+
+<!-- Backend & Data -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42"/>
+
+</p>
+
+---
+
+## 🌐 Open-Source & Community
+
+- Active GitHub contributor & open-source explorer  
+- Interested in **DevOps, cloud-native, infra, and system-level OSS**
+- Regularly experiment with **new tools, RFCs, and architectures**
+- Believe in **learning by reading code, breaking systems, and fixing them**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/nishant-maheshwari-geekcoderr" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
+  </a>
+  <a href="https://twitter.com/hackernishant" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/>
+  </a>
+  <a href="https://dev.to/geekcoderr" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30"/>
+  </a>
+  <a href="https://medium.com/@mnishant222" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=geekcoderr&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=geekcoderr" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekcoderr&layout=compact" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=geekcoderr&theme=flat&margin-w=12&no-frame=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>Systems • Scale • Automation • Open Source</i>
+</p>
